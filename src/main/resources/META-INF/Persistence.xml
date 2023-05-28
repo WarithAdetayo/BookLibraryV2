@@ -6,10 +6,12 @@
              version="3.0">
 
     <persistence-unit name="MyLibrary" transaction-type="RESOURCE_LOCAL">
-        <class>org.JPAtut.entity.Employee</class>
+        <class>org.mylibrary.core.entity.Student</class>
+        <class>org.mylibrary.core.entity.Book</class>
+        <class>org.mylibrary.core.entity.LendRecord</class>
 
         <properties>
-
+            <property name="jakarta.persistence" value=""/>
         </properties>
     </persistence-unit>
 </persistence>
