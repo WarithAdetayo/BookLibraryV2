@@ -1,0 +1,102 @@
+[
+  {
+    "matriculationNumber": "2023001",
+    "firstname": "John",
+    "lastname": "Doe"
+  },
+  {
+    "matriculationNumber": "2023002",
+    "firstname": "Alice",
+    "lastname": "Smith"
+  },
+  {
+    "matriculationNumber": "2023003",
+    "firstname": "David",
+    "lastname": "Johnson"
+  },
+  {
+    "matriculationNumber": "2023004",
+    "firstname": "Emily",
+    "lastname": "Brown"
+  },
+  {
+    "matriculationNumber": "2023005",
+    "firstname": "Michael",
+    "lastname": "Davis"
+  },
+  {
+    "matriculationNumber": "2023006",
+    "firstname": "Sophia",
+    "lastname": "Miller"
+  },
+  {
+    "matriculationNumber": "2023007",
+    "firstname": "Matthew",
+    "lastname": "Wilson"
+  },
+  {
+    "matriculationNumber": "2023008",
+    "firstname": "Olivia",
+    "lastname": "Anderson"
+  },
+  {
+    "matriculationNumber": "2023009",
+    "firstname": "James",
+    "lastname": "Taylor"
+  },
+  {
+    "matriculationNumber": "2023010",
+    "firstname": "Emma",
+    "lastname": "Clark"
+  },
+  {
+    "matriculationNumber": "2023011",
+    "firstname": "Daniel",
+    "lastname": "Martinez"
+  },
+  {
+    "matriculationNumber": "2023012",
+    "firstname": "Ava",
+    "lastname": "Thompson"
+  },
+  {
+    "matriculationNumber": "2023013",
+    "firstname": "William",
+    "lastname": "Lee"
+  },
+  {
+    "matriculationNumber": "2023014",
+    "firstname": "Mia",
+    "lastname": "Walker"
+  },
+  {
+    "matriculationNumber": "2023015",
+    "firstname": "Joseph",
+    "lastname": "Harris"
+  },
+  {
+    "matriculationNumber": "2023016",
+    "firstname": "Charlotte",
+    "lastname": "Young"
+  },
+  {
+    "matriculationNumber": "2023017",
+    "firstname": "David",
+    "lastname": "Lewis"
+  },
+  {
+    "matriculationNumber": "2023018",
+    "firstname": "Abigail",
+    "lastname": "Green"
+  },
+  {
+    "matriculationNumber": "2023019",
+    "firstname": "Andrew",
+    "lastname": "King"
+  },
+  {
+    "matriculationNumber": "2023020",
+    "firstname": "Elizabeth",
+    "lastname": "Scott"
+  }
+]

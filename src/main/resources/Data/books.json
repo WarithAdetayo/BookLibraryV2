@@ -1,0 +1,72 @@
+[
+  {
+    "ISBN": "978-0061120084",
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Copies": 10,
+    "Description": "To Kill a Mockingbird is a novel by Harper Lee. It was published in 1960 and has since become a classic of American literature. The story takes place in the fictional town of Maycomb, Alabama, during the Great Depression. It explores themes of racial injustice, morality, and the loss of innocence."
+  },
+  {
+    "ISBN": "978-0141182605",
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Copies": 5,
+    "Description": "1984 is a dystopian novel by George Orwell. It was published in 1949 and is set in a totalitarian society where individualism and freedom of thought are suppressed. The story follows the life of Winston Smith as he rebels against the oppressive regime of Big Brother."
+  },
+  {
+    "ISBN": "978-0062316097",
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Copies": 7,
+    "Description": "The Great Gatsby is a novel by F. Scott Fitzgerald. It was published in 1925 and is set in the Roaring Twenties, a time of economic prosperity and social upheaval. The story revolves around Jay Gatsby, a mysterious millionaire, and his obsession with the beautiful Daisy Buchanan."
+  },
+  {
+    "ISBN": "978-0060558128",
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Copies": 3,
+    "Description": "The Catcher in the Rye is a novel by J.D. Salinger. It was published in 1951 and is narrated by the protagonist, Holden Caulfield. The story follows Holden's experiences in New York City after being expelled from his boarding school. It explores themes of teenage angst, alienation, and the loss of innocence."
+  },
+  {
+    "ISBN": "978-0060740558",
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Copies": 6,
+    "Description": "The Hobbit is a fantasy novel by J.R.R. Tolkien. It was published in 1937 and serves as a prelude to the author's famous Lord of the Rings trilogy. The story follows the adventures of Bilbo Baggins, a hobbit who is swept into a quest to reclaim a treasure from the dragon Smaug."
+  },
+  {
+    "ISBN": "978-0743273565",
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Copies": 2,
+    "Description": "To Kill a Mockingbird is a novel by Harper Lee. It was published in 1960 and has since become a classic of American literature. The story takes place in the fictional town of Maycomb, Alabama, during the Great Depression. It explores themes of racial injustice, morality, and the loss of innocence."
+  },
+  {
+    "ISBN": "978-0451524935",
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Copies": 8,
+    "Description": "1984 is a dystopian novel by George Orwell. It was published in 1949 and is set in a totalitarian society where individualism and freedom of thought are suppressed. The story follows the life of Winston Smith as he rebels against the oppressive regime of Big Brother."
+  },
+  {
+    "ISBN": "978-0684801223",
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Copies": 4,
+    "Description": "The Great Gatsby is a novel by F. Scott Fitzgerald. It was published in 1925 and is set in the Roaring Twenties, a time of economic prosperity and social upheaval. The story revolves around Jay Gatsby, a mysterious millionaire, and his obsession with the beautiful Daisy Buchanan."
+  },
+  {
+    "ISBN": "978-0316769488",
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Copies": 6,
+    "Description": "The Catcher in the Rye is a novel by J.D. Salinger. It was published in 1951 and is narrated by the protagonist, Holden Caulfield. The story follows Holden's experiences in New York City after being expelled from his boarding school. It explores themes of teenage angst, alienation, and the loss of innocence."
+  },
+  {
+    "ISBN": "978-0060740558",
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Copies": 9,
+    "Description": "The Hobbit is a fantasy novel by J.R.R. Tolkien. It was published in 1937 and serves as a prelude to the author's famous Lord of the Rings trilogy. The story follows the adventures of Bilbo Baggins, a hobbit who is swept into a quest to reclaim a treasure from the dragon Smaug."
+  }
+]

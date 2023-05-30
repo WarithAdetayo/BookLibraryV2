@@ -8,9 +8,11 @@ import java.util.Date;
 @Table
 public class LendRecord {
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE)
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private int id;
+    @ManyToOne(targetEntity = Book.class, optional = false)
     private Book book;
+    @ManyToOne(targetEntity = Student.class, optional = false)
     private Student student;
     private Date dateBorrowed;
     private boolean returned;
@@ -21,6 +23,8 @@ public class LendRecord {
         this.dateBorrowed = dateBorrowed;
         this.returned = returned;
     }
+
+    public LendRecord() {}
 
     public LendRecord(Book book, Student student) {
         this.book = book;
@@ -67,5 +71,13 @@ public class LendRecord {
 
     public void setReturned(boolean returned) {
         this.returned = returned;
+    }
+
+    @Override
+    public String toString() {
+        return String.format(
+                "LendRecord(ID=%d, book=%s, borrower=%s)",
+                this.id, this.book, this.student
+        );
     }
 }

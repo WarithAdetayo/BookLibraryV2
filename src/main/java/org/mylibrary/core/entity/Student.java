@@ -15,6 +15,14 @@ public class Student {
     @Column(name = "lastname")
     private String lastName;
 
+    public Student(String matricNumber, String firstName, String lastName) {
+        this.matricNumber = matricNumber;
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    public Student() {}
+
     public String getMatricNumber() {
         return matricNumber;
     }
@@ -37,5 +45,13 @@ public class Student {
 
     public void setLastName(String lastName) {
         this.lastName = lastName;
+    }
+
+    @Override
+    public String toString() {
+        return String.format(
+                "Student<matric='%s', firstname='%s' lastname='%s'>",
+                this.matricNumber, this.firstName, this.lastName
+        );
     }
 }
